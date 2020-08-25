@@ -1,5 +1,10 @@
 # R script to accompany Intro to R
+# 
+# Written by Troy A. Adair
+#
 # Copy for Danny Brecht
+#
+# Customized by Danny Brecht
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
